@@ -1,0 +1,9 @@
+.item {
+    border: 1px solid #CCCCCC !important;
+    border-radius: 10px;
+}
+
+.item img {
+    width: 400px;
+    height: 110px;
+}
